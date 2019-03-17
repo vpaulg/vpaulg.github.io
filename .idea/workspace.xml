@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998e40c1-fef5-4b21-8e29-20d3725e1006" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/contactform/contactform.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyPage/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPage/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyPage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPage/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyPage/Tutorial/step01-initial-HTML-setup.html" beforeDir="false" />
@@ -26,6 +27,7 @@
       <change beforePath="$PROJECT_DIR$/../MyPage/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPage/projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyPage/sajfd-hfafbjhd.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPage/sajfd-hfafbjhd.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyPage/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../MyPage/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,16 +71,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -88,11 +80,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contactform/contactform.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
+            <state relative-caret-position="475">
               <caret line="109" column="26" selection-start-line="109" selection-start-column="14" selection-end-line="109" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contactform/contactform.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -123,7 +124,10 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="535acb83-9fd9-4517-a188-43653b921c75" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -132,6 +136,7 @@
         <option value="$PROJECT_DIR$/css/font-awesome.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contactform/contactform.php" />
       </list>
     </option>
   </component>
@@ -152,6 +157,11 @@
               <item name="MyResume" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyResume" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyResume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyResume" type="462c0819:PsiDirectoryNode" />
+              <item name="contactform" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -165,6 +175,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -179,7 +190,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -189,12 +200,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552765566284</updated>
       <workItem from="1552765569046" duration="5860000" />
-      <workItem from="1552771777986" duration="10291000" />
+      <workItem from="1552771777986" duration="11216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16151000" />
+    <option name="totallyTimeSpent" value="17076000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -252,16 +263,6 @@
     <entry file="file://$PROJECT_DIR$/img/work/1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/contactform/Readme.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contactform/contactform.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="109" column="26" selection-start-line="109" selection-start-column="14" selection-end-line="109" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -269,6 +270,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2271">
           <caret line="202" column="14" selection-start-line="202" selection-start-column="4" selection-end-line="202" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -301,11 +310,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/contactform/Readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactform/contactform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactform/contactform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="109" column="26" selection-start-line="109" selection-start-column="14" selection-end-line="109" selection-end-column="26" />
         </state>
       </provider>
     </entry>
