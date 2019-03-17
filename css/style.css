@@ -194,6 +194,9 @@ header {
 .heading h2::first-letter {
 	color:#92DD03 ;
 }
+header h2::first-letter {
+	color:#92DD03 ;
+}
 .heading h3 {
 	font-size:16px;
 	line-height:1.7;
